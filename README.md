@@ -1,2 +1,2 @@
-anather
+another
 # tests
